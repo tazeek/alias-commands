@@ -5,3 +5,5 @@ alias project_file='cd ~/Desktop/Projects'
 alias main_branch='git checkout'
 
 alias update='git pull'
+
+alias status='git status'
