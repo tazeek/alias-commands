@@ -1,4 +1,5 @@
 function new_pr() {
+	git pull
 	branch_name="tazeek"
 	branch_name+="/$1"
 
